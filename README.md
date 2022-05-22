@@ -6,7 +6,7 @@
      Also, I've jumped into JavaScript and JSNode, with my sights set on learning React. I'd also love to dive into 
      game development! I want to remake the side-scroller beat'em-up games of 80s and 90s.
 
-- 🌱 I’m currently enrolled in an introduction to computer networking, taught using C++, Java, and Python.
+- 🌱 I’m currently enrolled in datbase system design where I'm learning how to design databases and program them using MySQL.
      
 - 💞️ I’m looking to collaborate on anything web development or sports related. Web development because of the direct application
      to my current work. Sports because I love sports and would love to work on anything sports-adjacent. 
