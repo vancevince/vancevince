@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vancevince. I'm a junior at the University of South Carolina-Columbia studying Computer Information Systems. 
+- 👋 Hi, I’m @vancevince. I'm a senior at the University of South Carolina-Columbia studying Computer Information Systems. 
      I'm also a radio producer and host of All Things Considered for South Carolina Public Radio.
      
 - 👀 I’m interested in learning more about programming and development, and how I can incorporate more those into my current work.
