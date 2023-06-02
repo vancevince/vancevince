@@ -6,7 +6,7 @@
      Also, I've jumped into JavaScript and JSNode, with my sights set on learning React. I'd also love to dive into 
      game development! I want to remake the side-scroller beat'em-up games of 80s and 90s.
 
-- 🌱 I’m currently enrolled in the first half of my senior capstone project.
+- 🌱 I currently work as a research assistant for McNair Aerospace Center at USC, where I'm basically a developer intern.
      
 - 💞️ I’m looking to collaborate on anything web development or sports related. Web development because of the direct application
      to my current work. Sports because I love sports and would love to work on anything sports-adjacent. 
